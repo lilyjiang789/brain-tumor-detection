@@ -26,7 +26,7 @@ While classes 1 and 2 are predicted effectively, **Class 0** has high precision 
 
 * **Approach**: Preprocessing, model training, evaluation, and report generation.
 
-* **Tech Stack**: Python, TensorFlow, NumPy, pandas, matplotlib
+* **Tech Stack**: Python, TensorFlow, NumPy, matplotlib
 
 
 ## Dataset
